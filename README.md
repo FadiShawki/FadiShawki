@@ -1,4 +1,4 @@
-<p align="center" width="100%">👋👋 The year is 2023 and ripe for the continued exploration of the universe by an allegedly self-proclaimed engineer, researcher, ..., scientist with an unkeenly interest in all things computational.</p>
+<p align="center" width="100%">👋👋 Some random exploration in the supposed year of 2023.</p>
 
 ---
 
