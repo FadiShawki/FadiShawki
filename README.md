@@ -1,6 +1,6 @@
-<p align="center" width="100%">👋👋 Some random exploration in the supposed year of 2023.</p>
+<p align="center" width="100%">👋👋 Some random exploration in the supposed year of 2024.</p>
 
 ---
 
-https://orbitmines.com/papers/on-intelligibility
-![2022.On_the_Intelligibility_of_(dynamic)_Systems_and_Conceptual_Uncertainty.jpeg](https://github.com/orbitmines/.github/blob/main/profile/papers/2022.On_the_Intelligibility_of_(dynamic)_Systems_and_Conceptual_Uncertainty.jpeg)
+https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies/
+![2023.on-orbits-equivalence-and-inconsistencies-thumbnail.jpeg](https://github.com/orbitmines/.github/blob/main/profile/papers/on-orbits-equivalence-and-inconsistencies/images/thumbnail/3840x2160.jpeg)
