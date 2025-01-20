@@ -1,4 +1,4 @@
-<p align="center" width="100%">👋👋 Some random exploration in the supposed year of 2024.</p>
+<p align="center" width="100%">👋👋 Some random exploration in the supposed year of 2025.</p>
 
 ---
 
