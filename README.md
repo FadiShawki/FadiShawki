@@ -1,6 +1,16 @@
-<p align="center" width="100%">👋👋 Some random exploration in the supposed year of 2025.</p>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png">
+  <a target="_blank" href="https://orbitmines.com"><img alt="OrbitMines Logo" src="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png" width="50%" height="50%"></a>
+</picture>
 
-https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies/
-![2023.on-orbits-equivalence-and-inconsistencies-thumbnail.jpeg](https://github.com/orbitmines/.github/blob/main/profile/papers/on-orbits-equivalence-and-inconsistencies/images/thumbnail/3840x2160.jpeg)
+[![OrbitMines Discord](https://img.shields.io/discord/1055502602365845534.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.orbitmines.com)
+
+</div>
+
+```sh
+git clone git@github.com:orbitmines/ray.git # The Ray Programming Language & The Ether
+git clone git@github.com:orbitmines/archive.git # Publich research archive
+git clone git@github.com:orbitmines/orbitmines.com.git # Website to the internet
+```
